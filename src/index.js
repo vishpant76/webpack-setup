@@ -2,11 +2,11 @@
 import "./styles.css";
 import { greeting } from "./greeting.js";
 // src/index.js
-import odinImage from "./odin.png";
+// import odinImage from "./odin.png";
 
-const image = document.createElement("img");
-image.src = odinImage;
+// const image = document.createElement("img");
+// image.src = odinImage;
 
-document.body.appendChild(image);
+// document.body.appendChild(image);
 
 console.log(greeting);
